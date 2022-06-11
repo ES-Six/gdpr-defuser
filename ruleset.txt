@@ -40,3 +40,8 @@ www.nvidia.com###onetrust-consent-sdk:remove()
 www.leparisien.fr##.didomi-popup-open:style(overflow: auto !important)
 www.leparisien.fr###didomi-host:style(display: none !important)
 www.leparisien.fr###didomi-host:remove()
+
+! GDPR defuser : BFM TV
+www.bfmtv.com##.didomi-popup-open:style(overflow: auto !important)
+www.bfmtv.com###didomi-host:style(display: none !important)
+www.bfmtv.com###didomi-host:remove()
