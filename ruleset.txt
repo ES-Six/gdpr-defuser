@@ -42,9 +42,10 @@ www.nvidia.com###onetrust-consent-sdk:remove()
 ! GDPR defuser : Actu
 ! GDPR defuser : France bleu
 ! GDPR defuser : JVC
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com##.didomi-popup-open:style(overflow: auto !important)
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com###didomi-host:style(display: none !important)
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com###didomi-host:remove()
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr##.didomi-popup-open:style(overflow: auto !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr###didomi-host:style(display: none !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr###didomi-host:remove()
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr##+js(rc, .didomi-popup-open, body)
 
 ! GDPR defuser : Le Figaro
 www.lefigaro.fr##.appconsent_noscroll:style(overflow: auto !important)
