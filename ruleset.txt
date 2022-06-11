@@ -55,3 +55,8 @@ www.ouest-france.fr###didomi-host:remove()
 www.francetvinfo.fr##.didomi-popup-open:style(overflow: auto !important)
 www.francetvinfo.fr###didomi-host:style(display: none !important)
 www.francetvinfo.fr###didomi-host:remove()
+
+! GDPR defuser : Le Figaro
+www.lefigaro.fr##.appconsent_noscroll:style(overflow: auto !important)
+www.lefigaro.fr###appconsent:style(display: none !important)
+www.lefigaro.fr###appconsent:remove()
