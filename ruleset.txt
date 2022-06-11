@@ -60,3 +60,8 @@ www.francetvinfo.fr###didomi-host:remove()
 www.lefigaro.fr##.appconsent_noscroll:style(overflow: auto !important)
 www.lefigaro.fr###appconsent:style(display: none !important)
 www.lefigaro.fr###appconsent:remove()
+
+! GDPR defuser : CNews
+www.cnews.fr##.didomi-popup-open:style(overflow: auto !important)
+www.cnews.fr###didomi-host:style(display: none !important)
+www.cnews.fr###didomi-host:remove()
