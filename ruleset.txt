@@ -65,3 +65,10 @@ www.lefigaro.fr###appconsent:remove()
 www.cnews.fr##.didomi-popup-open:style(overflow: auto !important)
 www.cnews.fr###didomi-host:style(display: none !important)
 www.cnews.fr###didomi-host:remove()
+
+! GDPR defuser : CNews
+www.cnews.fr##.didomi-popup-open:style(overflow: auto !important)
+www.cnews.fr###didomi-host:style(display: none !important)
+www.cnews.fr###didomi-host:remove()
+www.cnews.fr###block-dm-ledirect-dm-ledirect-header-live:remove()
+www.cnews.fr##.keep-header-height:remove()
