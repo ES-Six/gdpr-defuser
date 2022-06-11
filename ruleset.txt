@@ -35,3 +35,8 @@ sustainability.google###cookieBar:style(display: none !important)
 ! GDPR defuser : Nvidia
 www.nvidia.com###onetrust-consent-sdk:style(display: none !important)
 www.nvidia.com###onetrust-consent-sdk:remove()
+
+! GDPR defuser : Le Parisien
+www.leparisien.fr##.didomi-popup-open:style(overflow: auto !important)
+www.leparisien.fr###didomi-host:style(display: none !important)
+www.leparisien.fr###didomi-host:remove()
