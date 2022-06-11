@@ -81,3 +81,7 @@ www.canardpc.com###axeptio_overlay:remove()
 www.demotivateur.fr##body > .device-desktop:remove()
 www.demotivateur.fr##body > .nomargin:remove()
 www.demotivateur.fr###fast-cmp-root:remove()
+
+! GDPR defuser : Les Mobiles
+www.lesmobiles.com###cookie-banner:style(display: none !important)
+www.lesmobiles.com###cookie-banner:remove()
