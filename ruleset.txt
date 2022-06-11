@@ -1,0 +1,17 @@
+[For uBlock Origin 1.42 or later]
+! Version: 1654940045
+! Title: GDPR Defuser
+! Last modified: 11 Jun 2022 11:33 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/ES-Six/gdpr-defuser
+! Licence: https://github.com/ES-Six/gdpr-defuser/blob/main/LICENSE
+! 
+! Are you tired of those RGPD popups? I am too.
+!
+! -----------------General tracking systems-----------------!
+! *** gdpr-defuser:ruleset.txt ***
+
+! GDPR defuser Le Monde
+www.lemonde.fr##html:style(overflow:auto!important)
+www.lemonde.fr##body:style(overflow:auto!important)
+www.lemonde.fr##.gdpr-lmd-wall:remove()
