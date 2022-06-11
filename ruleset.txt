@@ -39,9 +39,9 @@ www.nvidia.com###onetrust-consent-sdk:remove()
 ! GDPR defuser : CNews
 ! GDPR defuser : Doctolib
 ! GDPR defuser : Paris match Belgique
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr##.didomi-popup-open:style(overflow: auto !important)
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr###didomi-host:style(display: none !important)
-www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr###didomi-host:remove()
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr##.didomi-popup-open:style(overflow: auto !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr###didomi-host:style(display: none !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr###didomi-host:remove()
 
 ! GDPR defuser : Le Figaro
 www.lefigaro.fr##.appconsent_noscroll:style(overflow: auto !important)
