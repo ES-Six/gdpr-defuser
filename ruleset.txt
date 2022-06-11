@@ -21,11 +21,6 @@ www.lemonde.fr##.gdpr-lmd-wall:remove()
 www.youtube.com##ytd-consent-bump-v2-lightbox:style(display: none !important)
 www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
 
-! GDPR defuser : Public Senat
-www.publicsenat.fr##.didomi-popup-open:style(overflow: auto !important)
-www.publicsenat.fr###didomi-host:style(display: none !important)
-www.publicsenat.fr###didomi-host:remove()
-
 ! GDPR defuser : Google (France)
 google.com##.HTjtHe:remove()
 google.com##.HTjtHe:style(display: none !important)
@@ -37,39 +32,23 @@ www.nvidia.com###onetrust-consent-sdk:style(display: none !important)
 www.nvidia.com###onetrust-consent-sdk:remove()
 
 ! GDPR defuser : Le Parisien
-www.leparisien.fr##.didomi-popup-open:style(overflow: auto !important)
-www.leparisien.fr###didomi-host:style(display: none !important)
-www.leparisien.fr###didomi-host:remove()
-
+! GDPR defuser : Public Senat
 ! GDPR defuser : BFM TV
-www.bfmtv.com##.didomi-popup-open:style(overflow: auto !important)
-www.bfmtv.com###didomi-host:style(display: none !important)
-www.bfmtv.com###didomi-host:remove()
-
 ! GDPR defuser : Ouest France
-www.ouest-france.fr##.didomi-popup-open:style(overflow: auto !important)
-www.ouest-france.fr###didomi-host:style(display: none !important)
-www.ouest-france.fr###didomi-host:remove()
-
 ! GDPR defuser : France Info
-www.francetvinfo.fr##.didomi-popup-open:style(overflow: auto !important)
-www.francetvinfo.fr###didomi-host:style(display: none !important)
-www.francetvinfo.fr###didomi-host:remove()
+! GDPR defuser : CNews
+! GDPR defuser : Doctolib
+! GDPR defuser : Paris match Belgique
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be##.didomi-popup-open:style(overflow: auto !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be###didomi-host:style(display: none !important)
+www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be###didomi-host:remove()
 
 ! GDPR defuser : Le Figaro
 www.lefigaro.fr##.appconsent_noscroll:style(overflow: auto !important)
 www.lefigaro.fr###appconsent:style(display: none !important)
 www.lefigaro.fr###appconsent:remove()
 
-! GDPR defuser : CNews
-www.cnews.fr##.didomi-popup-open:style(overflow: auto !important)
-www.cnews.fr###didomi-host:style(display: none !important)
-www.cnews.fr###didomi-host:remove()
-
-! GDPR defuser : CNews
-www.cnews.fr##.didomi-popup-open:style(overflow: auto !important)
-www.cnews.fr###didomi-host:style(display: none !important)
-www.cnews.fr###didomi-host:remove()
+! GDPR defuser : Unbreak for CNews
 www.cnews.fr###block-dm-ledirect-dm-ledirect-header-live:remove()
 www.cnews.fr##.keep-header-height:remove()
 
@@ -77,16 +56,6 @@ www.cnews.fr##.keep-header-height:remove()
 www.pressesante.com##body:style(overflow: auto !important)
 www.pressesante.com###qc-cmp2-container:style(display: none !important)
 www.pressesante.com###qc-cmp2-container:remove()
-
-! GDPR defuser : Doctolib
-www.doctolib.fr##.didomi-popup-open:style(overflow: auto !important)
-www.doctolib.fr###didomi-host:style(display: none !important)
-www.doctolib.fr###didomi-host:remove()
-
-! GDPR defuser : Paris match Belgique
-parismatch.be##.didomi-popup-open:style(overflow: auto !important)
-parismatch.be###didomi-host:style(display: none !important)
-parismatch.be###didomi-host:remove()
 
 ! GDPR defuser : Légifrance
 www.legifrance.gouv.fr###hotjar_local:style(overflow: auto !important)
