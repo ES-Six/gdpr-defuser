@@ -89,3 +89,11 @@ www.demotivateur.fr##body > .nomargin:remove()
 ! GDPR defuser : Les Mobiles
 www.lesmobiles.com###cookie-banner:style(display: none !important)
 www.lesmobiles.com###cookie-banner:remove()
+
+! GDPR defuser : Fact and Furious
+factandfurious.com###cmplz-cookiebanner-container:style(display: none !important)
+factandfurious.com###cmplz-cookiebanner-container:remove()
+
+! GDPR defuser : APF Factuel
+factuel.afp.com###onetrust-consent-sdk:style(display: none !important)
+factuel.afp.com###onetrust-consent-sdk:remove()
