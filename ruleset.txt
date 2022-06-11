@@ -20,3 +20,8 @@ www.lemonde.fr##.gdpr-lmd-wall:remove()
 ! GDPR defuser : YouTube
 www.youtube.com##ytd-consent-bump-v2-lightbox:style(display: none !important)
 www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
+
+! GDPR defuser : Public Senat
+www.publicsenat.fr##.didomi-popup-open:style(overflow: auto !important)
+www.publicsenat.fr###didomi-host:style(display: none !important)
+www.publicsenat.fr###didomi-host:remove()
