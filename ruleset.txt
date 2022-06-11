@@ -28,4 +28,6 @@ www.publicsenat.fr###didomi-host:remove()
 
 ! GDPR defuser : Google (France)
 google.com##.HTjtHe:remove()
+google.com##.HTjtHe:style(display: none !important)
 sustainability.google###cookieBar:remove()
+sustainability.google###cookieBar:style(display: none !important)
