@@ -41,6 +41,7 @@ www.nvidia.com###onetrust-consent-sdk:remove()
 ! GDPR defuser : Paris match Belgique
 ! GDPR defuser : Actu
 ! GDPR defuser : France bleu
+! GDPR defuser : JVC
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com##.didomi-popup-open:style(overflow: auto !important)
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com###didomi-host:style(display: none !important)
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com###didomi-host:remove()
@@ -62,3 +63,8 @@ www.pressesante.com###qc-cmp2-container:remove()
 ! GDPR defuser : Légifrance
 www.legifrance.gouv.fr###hotjar_local:style(overflow: auto !important)
 www.legifrance.gouv.fr###hotjar_local:remove()
+
+! GDPR defuser : Frandroid
+www.frandroid.com###html:style(overflow: auto !important)
+www.frandroid.com###sd-cmp:style(display: none !important)
+www.frandroid.com###sd-cmp:remove()
