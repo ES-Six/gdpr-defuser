@@ -6,6 +6,7 @@ Are you tired of those RGPD popups? I am too.
 # How to install ?
 
 In the uBlock origin Filter tab simply copy this url in the import field to automatically import and sync the GDPR defuser rulesets to uBlock :
+
 URL : `https://raw.githubusercontent.com/ES-Six/gdpr-defuser/main/ruleset.txt`
 
 Exemple :
