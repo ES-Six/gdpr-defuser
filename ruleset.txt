@@ -65,6 +65,6 @@ www.legifrance.gouv.fr###hotjar_local:style(overflow: auto !important)
 www.legifrance.gouv.fr###hotjar_local:remove()
 
 ! GDPR defuser : Frandroid
-www.frandroid.com###html:style(overflow: auto !important)
+www.frandroid.com##html:style(overflow: auto !important)
 www.frandroid.com###sd-cmp:style(display: none !important)
 www.frandroid.com###sd-cmp:remove()
