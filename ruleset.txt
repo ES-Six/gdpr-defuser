@@ -72,3 +72,8 @@ www.cnews.fr###didomi-host:style(display: none !important)
 www.cnews.fr###didomi-host:remove()
 www.cnews.fr###block-dm-ledirect-dm-ledirect-header-live:remove()
 www.cnews.fr##.keep-header-height:remove()
+
+! GDPR defuser : Presse santé
+www.pressesante.com##body:style(overflow: auto !important)
+www.pressesante.com###qc-cmp2-container:style(display: none !important)
+www.pressesante.com###qc-cmp2-container:remove()
