@@ -68,3 +68,7 @@ www.legifrance.gouv.fr###hotjar_local:remove()
 www.frandroid.com##html:style(overflow: auto !important)
 www.frandroid.com###sd-cmp:style(display: none !important)
 www.frandroid.com###sd-cmp:remove()
+
+! GDPR defuser : CanardPC
+www.canardpc.com###axeptio_overlay:style(display: none !important)
+www.canardpc.com###axeptio_overlay:remove()
