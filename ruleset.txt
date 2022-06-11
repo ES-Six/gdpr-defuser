@@ -25,3 +25,6 @@ www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
 www.publicsenat.fr##.didomi-popup-open:style(overflow: auto !important)
 www.publicsenat.fr###didomi-host:style(display: none !important)
 www.publicsenat.fr###didomi-host:remove()
+
+! GDPR defuser : Google (France)
+google.com##.HTjtHe:remove()
