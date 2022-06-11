@@ -66,9 +66,10 @@ www.legifrance.gouv.fr###hotjar_local:remove()
 
 ! GDPR defuser : Frandroid
 ! GDPR defuser : Clubic
-www.frandroid.com,www.clubic.com##html:style(overflow: auto !important)
-www.frandroid.com,www.clubic.com###sd-cmp:style(display: none !important)
-www.frandroid.com,www.clubic.com###sd-cmp:remove()
+! GDPR defuser : XBoxygen
+www.frandroid.com,www.clubic.com,www.xboxygen.com##html:style(overflow: auto !important)
+www.frandroid.com,www.clubic.com,www.xboxygen.com###sd-cmp:style(display: none !important)
+www.frandroid.com,www.clubic.com,www.xboxygen.com###sd-cmp:remove()
 
 ! GDPR defuser : CanardPC
 www.canardpc.com###axeptio_overlay:style(display: none !important)
