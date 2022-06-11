@@ -11,7 +11,10 @@
 ! -----------------General tracking systems-----------------!
 ! *** gdpr-defuser:ruleset.txt ***
 
-! GDPR defuser Le Monde
+! GDPR defuser : Le Monde
 www.lemonde.fr##html:style(overflow:auto!important)
 www.lemonde.fr##body:style(overflow:auto!important)
 www.lemonde.fr##.gdpr-lmd-wall:remove()
+
+! GDPR defuser : YouTube
+www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
