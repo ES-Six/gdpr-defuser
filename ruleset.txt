@@ -45,3 +45,8 @@ www.leparisien.fr###didomi-host:remove()
 www.bfmtv.com##.didomi-popup-open:style(overflow: auto !important)
 www.bfmtv.com###didomi-host:style(display: none !important)
 www.bfmtv.com###didomi-host:remove()
+
+! GDPR defuser : Ouest France
+www.ouest-france.fr##.didomi-popup-open:style(overflow: auto !important)
+www.ouest-france.fr###didomi-host:style(display: none !important)
+www.ouest-france.fr###didomi-host:remove()
