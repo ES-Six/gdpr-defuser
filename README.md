@@ -23,6 +23,6 @@ GDPR defuser is now installed ✔️
 
 # Limitations
 
-These rulesets are not intended for removing tracking scripts, it only hide GDPR related popups, uBlock origins already implement very efficient rulesets for this.
+These rulesets are not intended for removing tracking scripts, it only hide GDPR related popups, uBlock origins already implement very efficient rulesets to defuse every form of tracking.
 
 Hiding a GDPR popup without accepting make tracking scripts should not load when you visit a website.
