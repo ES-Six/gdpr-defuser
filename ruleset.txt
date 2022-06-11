@@ -6,7 +6,7 @@
 ! Homepage: https://github.com/ES-Six/gdpr-defuser
 ! Licence: https://github.com/ES-Six/gdpr-defuser/blob/main/LICENSE
 ! 
-! Are you tired of those RGPD popups? I am too.
+! Are you tired of those GDPR popups? I am too.
 !
 ! -----------------General tracking systems-----------------!
 ! *** gdpr-defuser:ruleset.txt ***
