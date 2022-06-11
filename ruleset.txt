@@ -14,7 +14,9 @@
 ! GDPR defuser : Le Monde
 www.lemonde.fr##html:style(overflow:auto!important)
 www.lemonde.fr##body:style(overflow:auto!important)
+www.lemonde.fr##.gdpr-lmd-wall:style(display: none !important)
 www.lemonde.fr##.gdpr-lmd-wall:remove()
 
 ! GDPR defuser : YouTube
+www.youtube.com##ytd-consent-bump-v2-lightbox:style(display: none !important)
 www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
