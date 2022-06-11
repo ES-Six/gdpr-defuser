@@ -1,7 +1,7 @@
 # gdpr-defuser
 This repository provides some UBlock origin filters to automatically not accept (by technically hiding without accepting it) GDPR policy popups, messages and other annoying stuff.
 
-Are you tired of those RGPD popups? I am too.
+Are you tired of those GDPR popups? I am too.
 
 # How to install ?
 
