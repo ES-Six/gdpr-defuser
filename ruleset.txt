@@ -77,3 +77,8 @@ www.cnews.fr##.keep-header-height:remove()
 www.pressesante.com##body:style(overflow: auto !important)
 www.pressesante.com###qc-cmp2-container:style(display: none !important)
 www.pressesante.com###qc-cmp2-container:remove()
+
+! GDPR defuser : Doctolib
+www.doctolib.fr##.didomi-popup-open:style(overflow: auto !important)
+www.doctolib.fr###didomi-host:style(display: none !important)
+www.doctolib.fr###didomi-host:remove()
