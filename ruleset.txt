@@ -50,3 +50,8 @@ www.bfmtv.com###didomi-host:remove()
 www.ouest-france.fr##.didomi-popup-open:style(overflow: auto !important)
 www.ouest-france.fr###didomi-host:style(display: none !important)
 www.ouest-france.fr###didomi-host:remove()
+
+! GDPR defuser : France Info
+www.francetvinfo.fr##.didomi-popup-open:style(overflow: auto !important)
+www.francetvinfo.fr###didomi-host:style(display: none !important)
+www.francetvinfo.fr###didomi-host:remove()
