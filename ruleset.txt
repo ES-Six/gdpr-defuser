@@ -87,3 +87,7 @@ www.doctolib.fr###didomi-host:remove()
 parismatch.be##.didomi-popup-open:style(overflow: auto !important)
 parismatch.be###didomi-host:style(display: none !important)
 parismatch.be###didomi-host:remove()
+
+! GDPR defuser : Légifrance
+www.legifrance.gouv.fr###hotjar_local:style(overflow: auto !important)
+www.legifrance.gouv.fr###hotjar_local:remove()
