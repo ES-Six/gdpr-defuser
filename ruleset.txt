@@ -111,3 +111,9 @@ factandfurious.com###cmplz-cookiebanner-container:remove()
 ! GDPR defuser : APF Factuel
 factuel.afp.com###onetrust-consent-sdk:style(display: none !important)
 factuel.afp.com###onetrust-consent-sdk:remove()
+
+! Annoyance Nice-Matin
+www.nicematin.com##.modalRhoo:style(display: none !important)
+www.nicematin.com##.modalRhoo:remove()
+www.nicematin.com##.RhooBg:style(display: none !important)
+www.nicematin.com##.RhooBg:remove()
