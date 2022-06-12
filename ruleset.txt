@@ -119,7 +119,7 @@ factandfurious.com###cmplz-cookiebanner-container:remove()
 factuel.afp.com###onetrust-consent-sdk:style(display: none !important)
 factuel.afp.com###onetrust-consent-sdk:remove()
 
-! Annoyance Nice-Matin
+! GDPR defuser : Annoyance Nice-Matin
 www.nicematin.com##.modalRhoo:style(display: none !important)
 www.nicematin.com##.modalRhoo:remove()
 www.nicematin.com##.RhooBg:style(display: none !important)
@@ -135,3 +135,7 @@ www.tf1info.fr##.tc-modal-open:style(position: relative !important)
 
 ||cdn.trustcommander.net/privacy/*/privacy$script,domain=tf1info.fr,important
 ||cdn.trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr,important
+
+! GDPR defuser : Mediapart
+www.mediapart.fr###js-cc-modal:remove()
+www.mediapart.fr###js-cc-modal:style(display: none !important)
