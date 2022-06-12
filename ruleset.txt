@@ -51,6 +51,10 @@ www.nvidia.com###onetrust-consent-sdk:remove()
 ! GDPR defuser : La croix
 ! GDPR defuser : Le Telegramme
 ! GDPR defuser : La Provence
+! GDPR defuser : Var matin
+! GDPR defuser : Le dauphiné
+! GDPR defuser : FR3
+! GDPR defuser : Actu orange
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr,www.20minutes.fr,www.europe1.fr,www.boursorama.com,www.challenges.fr,www.lesechos.fr,www.notretemps.com,www.la-croix.com,www.letelegramme.fr,www.laprovence.com,actu.orange.fr,france3-regions.francetvinfo.fr,www.varmatin.com,www.ledauphine.com##.didomi-popup-open:style(overflow: auto !important)
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr,www.20minutes.fr,www.europe1.fr,www.boursorama.com,www.challenges.fr,www.lesechos.fr,www.notretemps.com,www.la-croix.com,www.letelegramme.fr,www.laprovence.com,actu.orange.fr,france3-regions.francetvinfo.fr,www.varmatin.com,www.ledauphine.com###didomi-host:style(display: none !important)
 www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.francetvinfo.fr,www.cnews.fr,www.doctolib.fr,parismatch.be,actu.fr,www.francebleu.fr,www.jeuxvideo.com,www.gamekult.com,www.lesnumeriques.com,www.rfi.fr,www.20minutes.fr,www.europe1.fr,www.boursorama.com,www.challenges.fr,www.lesechos.fr,www.notretemps.com,www.la-croix.com,www.letelegramme.fr,www.laprovence.com,actu.orange.fr,france3-regions.francetvinfo.fr,www.varmatin.com,www.ledauphine.com###didomi-host:remove()
