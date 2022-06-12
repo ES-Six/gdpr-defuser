@@ -59,9 +59,9 @@ www.publicsenat.fr,www.leparisien.fr,www.bfmtv.com,www.ouest-france.fr,www.franc
 
 ! GDPR defuser : Le Figaro
 ! GDPR defuser : La chaine météo
-www.lefigaro.fr,actualite.lachainemeteo.com##.appconsent_noscroll:style(overflow: auto !important)
-www.lefigaro.fr,actualite.lachainemeteo.com###appconsent:style(display: none !important)
-www.lefigaro.fr,actualite.lachainemeteo.com###appconsent:remove()
+www.lefigaro.fr,actualite.lachainemeteo.com,www.lyonmag.com##.appconsent_noscroll:style(overflow: auto !important)
+www.lefigaro.fr,actualite.lachainemeteo.com,www.lyonmag.com###appconsent:style(display: none !important)
+www.lefigaro.fr,actualite.lachainemeteo.com,www.lyonmag.com###appconsent:remove()
 
 ! GDPR defuser : Unbreak for CNews
 www.cnews.fr###block-dm-ledirect-dm-ledirect-header-live:remove()
