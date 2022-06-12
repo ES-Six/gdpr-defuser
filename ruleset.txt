@@ -1,5 +1,5 @@
 [For uBlock Origin 1.42 or later]
-! Version: 1654940045
+! Version: 1655055859
 ! Title: GDPR Defuser
 ! Last modified: 11 Jun 2022 11:33 UTC
 ! Expires: 7 days (update frequency)
