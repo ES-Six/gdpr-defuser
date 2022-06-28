@@ -24,6 +24,7 @@ www.youtube.com##ytd-consent-bump-v2-lightbox:remove()
 ! GDPR defuser : Google (France)
 google.com##.HTjtHe:remove()
 google.com##.HTjtHe:style(display: none !important)
+google.com##body:style(overflow: auto !important)
 sustainability.google###cookieBar:remove()
 sustainability.google###cookieBar:style(display: none !important)
 
